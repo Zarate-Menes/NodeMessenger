@@ -1,0 +1,8 @@
+{
+  "nodes": [
+    { "id": 1, "name": "Debian1", "host": "192.168.226.130", "port": 5000 },
+    { "id": 2, "name": "Debian2", "host": "192.168.226.134", "port": 5000 },
+    { "id": 3, "name": "Debian3", "host": "192.168.226.133", "port": 5000 }
+  ],
+  "host": { "id": 0, "name": "Debian", "host": "192.168.226.150", "port": 5000 }
+}
